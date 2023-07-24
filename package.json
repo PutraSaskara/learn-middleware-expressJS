@@ -1,0 +1,16 @@
+{
+  "name": "task-middleware",
+  "version": "1.0.0",
+  "description": "Fullstack-ExpressJS-Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saskara Putra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
